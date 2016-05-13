@@ -307,6 +307,6 @@ func main(){
        //fmt.Printf("-----\n")
        clear()
     }
-       time.Sleep(1000000000)
+       time.Sleep(500000000)
 
 }
